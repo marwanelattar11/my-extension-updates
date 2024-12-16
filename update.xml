@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
     <update>
-        <url>https://drive.google.com/uc?export=download&;id=19MyV4bPLw8PjndDv--wFNx4Pwshjf9Me</url>
+        <url>https://drive.google.com/uc?export=download&amp;id=19MyV4bPLw8PjndDv--wFNx4Pwshjf9Me</url>
         <version>"2.0"</version>
         <filename>El_gen_DENTAL.zip</filename>
     </update>
