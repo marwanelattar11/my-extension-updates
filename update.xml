@@ -2,7 +2,7 @@
 <updates>
     <update>
         <!-- Use the shared link for your ZIP file -->
-        <url>https://drive.google.com/uc?export=download&id=19MyV4bPLw8PjndDv--wFNx4Pwshjf9Me</url>
+        <url>https://drive.google.com/uc?export=download&amp;id=19MyV4bPLw8PjndDv--wFNx4Pwshjf9Me</url>
         <!-- The version number you updated in the manifest -->
         <version>1.0.1</version>
         <filename>extension.zip</filename>
